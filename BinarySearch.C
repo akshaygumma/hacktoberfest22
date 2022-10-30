@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 int binaryScr(int a[], int low, int high, int m)
 {
 if (high >= low) {
